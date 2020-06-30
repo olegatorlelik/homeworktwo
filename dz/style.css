@@ -1,0 +1,148 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  width: 1400;
+  height: 590;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 107px;
+  font-size: 36px;
+  color: #212121;
+  font-family: "Raleway", sans-serif;
+}
+
+p {
+  margin-top: 35px;
+  font-size: 14px;
+  color: #86878b;
+  font-family: "Raleway", sans-serif;
+}
+
+img {
+  margin-top: 21px;
+}
+
+span {
+}
+
+.line {
+  border: solid 1px #ff8b38;
+  width: 64px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+}
+
+.content__one {
+  width: 350px;
+  height: 197px;
+  margin-top: 94px;
+  align-items: center;
+
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.content__two {
+  width: 350px;
+  height: 197px;
+  margin-top: 94px;
+  align-items: center;
+
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.content__tree {
+  width: 350px;
+  height: 197px;
+  margin-top: 94px;
+  align-items: center;
+
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.wraper__round__one {
+  width: 70px;
+  height: 70px;
+  border: solid 2px #ff8b38;
+  border-radius: 50%;
+  margin: 0 auto;
+  margin-bottom: 29px;
+  text-align: center;
+}
+
+.wraper__round__two {
+  width: 70px;
+  height: 70px;
+  border: solid 2px #ff8b38;
+  border-radius: 50%;
+  margin: 0 auto;
+  margin-bottom: 29px;
+  text-align: center;
+}
+
+.wraper__round__tree {
+  width: 70px;
+  height: 70px;
+  border: solid 2px #ff8b38;
+  border-radius: 50%;
+  margin: 0 auto;
+  margin-bottom: 29px;
+  text-align: center;
+}
+
+.content__one span {
+  font-size: 20px;
+  color: #333333;
+  font-family: "Raleway", sans-serif;
+}
+
+.content__two span {
+  font-size: 20px;
+  color: #333333;
+  font-family: "Raleway", sans-serif;
+}
+
+.content__tree span {
+  font-size: 20px;
+  color: #333333;
+  font-family: "Raleway", sans-serif;
+}
+
+.content__one p {
+  font-size: 14px;
+  color: #86878b;
+  font-family: "Raleway", sans-serif;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.content__two p {
+  font-size: 14px;
+  color: #86878b;
+  font-family: "Raleway", sans-serif;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.content__tree p {
+  font-size: 14px;
+  color: #86878b;
+  font-family: "Raleway", sans-serif;
+  padding-left: 50px;
+  padding-right: 50px;
+}
